@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ronaldobc21/Ronaldobc21/blob/main/Git-Banner-Profile%20(2).png)
 <h1 align="center">Hi 👋, I'm Ronald Bellorín</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img  align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="Coding">
+<img  align="right" width="300" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
