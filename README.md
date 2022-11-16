@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ronaldobc21](https://dev.to/ronaldobc21)
 
-- 💬 Ask me about **ASP.NET CORE, MVC, Nodejs**
+- 💬 Ask me about **ASP.NET CORE, MVC**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ronald-bellor%C3%ADn-2b6777182/](https://www.linkedin.com/in/ronald-bellor%C3%ADn-2b6777182/)
 
